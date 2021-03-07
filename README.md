@@ -14,3 +14,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+```C++
+int main()
+{ 
+	cout << "Hello World!" << endl;
+
+	InnoScorpio Personal;  
+	Personal.Real_Name = "José Dixon";
+	Personal.Username = "InnoScorpio";
+	Personal.Active = "April 23, 2020";
+	Personal.Country = "USA";
+	Personal.LinkedIn = "linkedin.com/in/jose-dixon-405438378";
+
+	InnoScorpio Education;
+	Education.Alma_Mater = "Morgan State University";
+	Education.College_Major = "Computer Science";
+	Education.Highest_Academic_Level = "Bachelor of Science";
+
+	InnoScorpio SoftEng_Skills;
+	SoftEng_Skills.Specialities = "Cybersecurity, Data Science, Machine Learning, Deep Learning, 
+                                            Computer Vision, Medical Image Analysis";
+	SoftEng_Skills.Programming = "C++, Python, SQL, JavaScript, Bash, HTML, CSS, R";
+	SoftEng_Skills.Web_Lib_FW = "Django, Flask, MySQL, PostqreSQL, MongoDB,";
+	SoftEng_Skills.DS_Lib_FW = "Numpy, Matplotlib, Pandas, Scipy, Seaborn";
+        SoftEng_Skills.IP_Lib_FW = "OpenCV, scikit-image";
+	SoftEng_Skills.ML_Lib_FW = "Keras, Tensorflow, Theano, scikit-learn"; 
+	SoftEng_Skills.App_Dev = "Anaconda, MS Visual Studio, Vim, Notepad++, Eclipse, Spyder";
+	SoftEng_Skills.Source_Control = "Git, GitHub, GitLab, BitBucket";
+        return 0;
+}
+ ```
+  
