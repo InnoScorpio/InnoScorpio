@@ -35,7 +35,7 @@ int main()
 	SoftEng_Skills.Specialities = "Cybersecurity, Data Science, Machine Learning, Deep Learning, 
                                             Computer Vision, Medical Image Analysis";
 	SoftEng_Skills.Programming = "C++, Python, SQL, JavaScript, Bash, HTML, CSS, R";
-	SoftEng_Skills.Web_Lib_FW = "Django, Flask, MySQL, PostqreSQL, MongoDB,";
+	SoftEng_Skills.Web_Lib_FW = "Django, Flask, MySQL, React.js, Node.js, PostqreSQL, MongoDB,";
 	SoftEng_Skills.DS_Lib_FW = "Numpy, Matplotlib, Pandas, Scipy, Seaborn";
         SoftEng_Skills.IP_Lib_FW = "OpenCV, scikit-image";
 	SoftEng_Skills.ML_Lib_FW = "Keras, Tensorflow, Theano, scikit-learn"; 
