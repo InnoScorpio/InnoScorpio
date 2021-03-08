@@ -37,7 +37,7 @@ int main()
     	SoftEng_Skills.IP_Lib_FW = "OpenCV, scikit-image";
 	SoftEng_Skills.ML_Lib_FW = "Keras, Tensorflow, scikit-learn"; 
 	SoftEng_Skills.UI/UX_Lib_FW = "Adobe XD";
-	SoftEng_Skills.App_Dev = "Anaconda, MS Visual Studio, Vim, Notepad++, Eclipse, Spyder";
+	SoftEng_Skills.Soft_Dev = "Anaconda, MS Visual Studio, Vim, Notepad++, Eclipse, Spyder, Jupyter Notebook";
 	SoftEng_Skills.Source_Control = "Git, GitHub, GitLab, BitBucket";
 
 	InnoScorpio CS_Skills;
