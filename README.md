@@ -29,17 +29,29 @@ int main()
 	Education.Alma_Mater = "Morgan State University";
 	Education.College_Major = "Computer Science";
 	Education.Highest_Academic_Level = "Bachelor of Science";
-
+	
 	InnoScorpio SoftEng_Skills;
-	SoftEng_Skills.Specialities = "Cybersecurity, Data Science, Machine Learning, Deep Learning, 
-                                            Computer Vision, Medical Image Analysis";
 	SoftEng_Skills.Programming = "C++, Python, SQL, JavaScript, Bash, HTML, CSS, R";
-	SoftEng_Skills.Web_Lib_FW = "Django, Flask, MySQL, React.js, Node.js, PostqreSQL, MongoDB,";
+	SoftEng_Skills.Web_Lib_FW = "Django, Flask, MySQL, Node.js, React,js, PostqreSQL, MongoDB,";
 	SoftEng_Skills.DS_Lib_FW = "Numpy, Matplotlib, Pandas, Scipy, Seaborn";
-        SoftEng_Skills.IP_Lib_FW = "OpenCV, scikit-image";
-	SoftEng_Skills.ML_Lib_FW = "Keras, Tensorflow, Theano, scikit-learn"; 
+    	SoftEng_Skills.IP_Lib_FW = "OpenCV, scikit-image";
+	SoftEng_Skills.ML_Lib_FW = "Keras, Tensorflow, scikit-learn"; 
 	SoftEng_Skills.App_Dev = "Anaconda, MS Visual Studio, Vim, Notepad++, Eclipse, Spyder";
 	SoftEng_Skills.Source_Control = "Git, GitHub, GitLab, BitBucket";
+
+	InnoScorpio CS_Skills;
+	CS_Skills.Specialities = "Cybersecurity, Data Science, Machine Learning, Deep Learning, 
+	                                   Computer Vision, Medical Image Analysis";
+	CS_Skills.Hardware = "Verilog";
+	CS_Skills.Sys_Org = "Raspberry Pi";
+	CS_Skills.Network = "Gephi, Wireshark, Nmap";
+	CS_Skills.Soft_Org = "Terminal, Powershell, VirtualBox, Ubuntu, Debian, Windows, Android";
+	CS_Skills.Soft_Not_Tools = "Cygwin";
+	CS_Skills.Theory = "jFLAP";
+	CS_Skills.IS = "Database Administration, Information Retrieval Algorithms";
+	CS_Skills.Security = "Kali Linux";
+	CS_Skills.Concurrency = "MS-MPI, CUDA";
+	CS_Skills.Graphics = "OpenGL, Blender, Unity";
         return 0;
 }
  ```
