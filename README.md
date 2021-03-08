@@ -47,7 +47,7 @@ int main()
 	CS_Skills.Sys_Org = "Raspberry Pi";
 	CS_Skills.Network = "Gephi, Wireshark, Nmap";
 	CS_Skills.Soft_Org = "Terminal, Powershell, VirtualBox, Ubuntu, Debian, Windows, Android";
-	CS_Skills.Soft_Not_Tools = "Cygwin";
+	CS_Skills.Prog_Lang_&_Tools = "Cygwin";
 	CS_Skills.Theory = "jFLAP";
 	CS_Skills.IS = "Database Administration, Information Retrieval Algorithms";
 	CS_Skills.Security = "Kali Linux";
