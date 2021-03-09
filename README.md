@@ -45,7 +45,7 @@ int main()
 	CS_Skills.Hardware = "Verilog";
 	CS_Skills.Sys_Org = "Raspberry Pi";
 	CS_Skills.Network = "Gephi, Wireshark, Nmap";
-	CS_Skills.Soft_Org = "Terminal, Powershell, VirtualBox, Ubuntu, Debian, Windows, Android";
+	CS_Skills.Soft_Org = "Terminal, Powershell, VirtualBox, Linux, Windows, Android";
 	CS_Skills.Prog_Lang_&_Tools = "Cygwin, Prolog, Julia, Racket, NetLogo";
 	CS_Skills.Theory = "jFLAP";
 	CS_Skills.IS = "Information Retrieval Algorithms, Numpy, Matplotlib, Pandas, Scipy, Seaborn";
