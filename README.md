@@ -25,6 +25,7 @@ int main()
 	Personal.Country = "USA";
 	Personal.LinkedIn = "linkedin.com/in/jose-dixon-405438378";
 	Personal.Pronouns = "He/Him";
+	Personal.Fun_Fact = "Best Coders Steal, Good Coders Borrow, Worst Coders Copy & Paste";
 
 	InnoScorpio Education;
 	Education.Alma_Mater = "Morgan State University";
@@ -33,7 +34,7 @@ int main()
 	
 	InnoScorpio SoftEng_Skills;
 	SoftEng_Skills.Programming = "C++, Python, SQL, JavaScript, Bash, HTML, CSS, R";
-	SoftEng_Skills.Web_Lib_FW = "Django, Flask, MySQL, Node.js, React,js, PostqreSQL, MongoDB,";
+	SoftEng_Skills.Web_Lib_FW = "Django, Flask, MySQL, Node.js, React,js, PostqreSQL, MongoDB";
 	SoftEng_Skills.UI/UX_Lib_FW = "Adobe XD";
 	SoftEng_Skills.Soft_Dev = "Anaconda, MS Visual Studio, Vim, Notepad++, 
 					Eclipse, Spyder, Jupyter Notebook";
