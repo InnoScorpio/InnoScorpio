@@ -24,6 +24,7 @@ int main()
 	Personal.Active = "April 23, 2020";
 	Personal.Country = "USA";
 	Personal.LinkedIn = "linkedin.com/in/jose-dixon-405438378";
+	Personal.Pronouns = "He/Him";
 
 	InnoScorpio Education;
 	Education.Alma_Mater = "Morgan State University";
@@ -33,9 +34,6 @@ int main()
 	InnoScorpio SoftEng_Skills;
 	SoftEng_Skills.Programming = "C++, Python, SQL, JavaScript, Bash, HTML, CSS, R";
 	SoftEng_Skills.Web_Lib_FW = "Django, Flask, MySQL, Node.js, React,js, PostqreSQL, MongoDB,";
-	SoftEng_Skills.DS_Lib_FW = "Numpy, Matplotlib, Pandas, Scipy, Seaborn";
-    	SoftEng_Skills.IP_Lib_FW = "OpenCV, scikit-image";
-	SoftEng_Skills.ML_Lib_FW = "Keras, Tensorflow, scikit-learn"; 
 	SoftEng_Skills.UI/UX_Lib_FW = "Adobe XD";
 	SoftEng_Skills.Soft_Dev = "Anaconda, MS Visual Studio, Vim, Notepad++, 
 					Eclipse, Spyder, Jupyter Notebook";
@@ -48,9 +46,11 @@ int main()
 	CS_Skills.Sys_Org = "Raspberry Pi";
 	CS_Skills.Network = "Gephi, Wireshark, Nmap";
 	CS_Skills.Soft_Org = "Terminal, Powershell, VirtualBox, Ubuntu, Debian, Windows, Android";
-	CS_Skills.Prog_Lang_&_Tools = "Cygwin";
+	CS_Skills.Prog_Lang_&_Tools = "Cygwin, Prolog, Julia, Racket, NetLogo";
 	CS_Skills.Theory = "jFLAP";
-	CS_Skills.IS = "Database Administration, Information Retrieval Algorithms";
+	CS_Skills.IS = "Information Retrieval Algorithms, Numpy, Matplotlib, Pandas, Scipy, Seaborn";
+	CS_Skills.AI = "OpenCV, scikit-image";
+	CS_Skills.ML = "Keras, Tensorflow, scikit-learn";
 	CS_Skills.Security = "Kali Linux";
 	CS_Skills.Concurrency = "MS-MPI, CUDA";
 	CS_Skills.Graphics = "OpenGL, Blender, Unity";
