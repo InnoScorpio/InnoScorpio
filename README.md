@@ -25,7 +25,6 @@ int main()
 	Personal.Country = "USA";
 	Personal.LinkedIn = "linkedin.com/in/jose-dixon-405438378";
 	Personal.Pronouns = "He/Him";
-	Personal.Fun_Fact = "Great Coders Steal, Good Coders Borrow, Bad Coders Copy & Paste";
 
 	InnoScorpio Education;
 	Education.Alma_Mater = "Morgan State University";
